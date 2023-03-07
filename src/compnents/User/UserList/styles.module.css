@@ -1,0 +1,8 @@
+.layout .user-data{
+    margin:20px;
+    padding: 10px;
+    border: 1px solid black;
+}
+.user-data ul li{
+    margin:3px;
+}
